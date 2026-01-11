@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-, "../prodev-mobile-app-0x01/app/index.tsx"  ]
+  ]
 }
